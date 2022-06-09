@@ -24,7 +24,7 @@ networkFromId networkIdVal =
         0 ->
             Olympic
 
-        1 ->
+        595 ->
             MainNet
 
         2 ->
